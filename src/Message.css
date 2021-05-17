@@ -18,3 +18,11 @@
 .message__guestCard {
     background-color: #e9e9eb !important;
 }
+
+.message.message__user:last-child{
+    margin-bottom: 150px;
+}
+
+.message .MuiCardContent-root{
+    border-radius: 30px !important;
+}
